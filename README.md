@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AI ML**
 
-- 📫 Reach me at **jaival.chandegara@gmail.com**
+- 📫 Reach me at **Harabharakebabb@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
