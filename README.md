@@ -1,9 +1,9 @@
 <h1 align="center">Hey ! I Am Jaival Chandegara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on ** AI Voice Assistant**
+- 🔭 I’m currently working on **AI Voice Assistant**
 
-- 🌱 I’m currently learning ** CS **
+- 🌱 I’m currently learning **CS**
 
 - 🤝 I’m looking for help with **AI ML**
 
