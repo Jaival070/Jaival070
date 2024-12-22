@@ -1,13 +1,13 @@
 <h1 align="center">Hey ! I Am Jaival Chandegara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Voice Assistant (SQUIRKY)**
+- 🔭 I’m currently working on ** AI Voice Assistant**
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently learning ** CS **
 
 - 🤝 I’m looking for help with **AI ML**
 
-- 📫 How to reach me **jaival.chandegara@gmail.com**
+- 📫 Reach me at **jaival.chandegara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
